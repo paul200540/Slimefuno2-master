@@ -1,4 +1,4 @@
-package me.CHANGEME.slimefunaddon;
+package me.slimefuno2.slimefunaddon;
 
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
@@ -13,7 +13,7 @@ import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 
-public class Slimefuno extends JavaPlugin implements SlimefunAddon {
+public class Slimefuno2 extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
