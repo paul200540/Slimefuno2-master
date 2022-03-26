@@ -8,7 +8,7 @@ author: paul200540
 description: A generic Slimefun4-Addon
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
-main: me.paul200540.Slimefuno2.slimefunaddon
+main: me.paul200540.slimefuno2.slimefunaddon
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
 website: https://github.com/Slimefun/Addon-Template
