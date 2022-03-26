@@ -13,7 +13,7 @@ import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 
-public class Slimefuno2 extends JavaPlugin implements SlimefunAddon {
+public class slimefuno2 extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
@@ -45,7 +45,7 @@ public class Slimefuno2 extends JavaPlugin implements SlimefunAddon {
         //Condensed Slime
         SlimefunItemStack condensedslime = new SlimefunItemStack("CONDENSED_SLIME", Material.SLIME_BLOCK, "&aCondensed Slime", "&aIt's so condensed that", "&aI can't see through it");
         //Slimy Hair
-        SlimefunItemStack slimyhair = new SlimefunItemStack("SLIMY_HAIR", Material.SLIME_BALL, "&aSlimy Hair", "&aIt's so slimy and fluffy", "&aThat I can run my", "&afingers through it");
+        SlimefunItemStack slimyhair = new SlimefunItemStack("SLIMY_HAIR", Material.STRING, "&aSlimy Hair", "&aIt's so slimy and fluffy", "&aThat I can run my", "&afingers through it");
         
 
         /*
